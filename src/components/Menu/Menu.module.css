@@ -1,0 +1,16 @@
+.menu-list {
+	display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 523px;
+  height: 48px;
+	list-style: none;
+}
+
+.menu-link {
+  color: rgb(168, 174, 191);
+}
+
+.menu-link:hover {
+  color: rgb(255, 255, 255);
+}

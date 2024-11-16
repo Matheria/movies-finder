@@ -1,4 +1,6 @@
 .text {
+  max-width: 588px;
+  margin: 0;
   color:#8e95a9;
   font-size: 16px;
   font-weight: 400;

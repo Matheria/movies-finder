@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  margin-top: 80px;
+}
+
+.search {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
